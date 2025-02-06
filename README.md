@@ -1,2 +1,46 @@
 # ML-CineRecom
 Proyecto ML para la creación de un sistema de recomendación de películas
+
+ A partir de al menos dos dataset, y con la posibilidad de webscrapear, quiero crear un sistema de recomendación de películas para una persona usuaria cinéfila. 
+
+Los datasets de los que dispongo actualmente son: 
+
+**TMDB 5000 Movie Dataset**
+https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
+
+4807 registros X 24 campos
+
+This dataset was generated from The Movie Database API (https://www.kaggle.com/code/sohier/getting-imdb-kernels-working-with-tmdb-data). This product uses the TMDb API but is not endorsed or certified by TMDb.
+Their API also provides access to data on many additional movies, actors and actresses, crew members, and TV shows. You can try it for yourself here. (https://gist.github.com/SohierDane/4a84cb96d220fc4791f52562be37968b)
+
+El dataset se reparte en los siguientes csv: 
+tmdb_5000_movies.csv
+tmdb_5000_credits.csv
+
+tmdb_5000_movies.csv incluye variables: budget, genres, homepage, id, keywords, original_language, original_title, overview, popularity, production_companies, production_countries, release_date, revenue, runtime ,spoken_languages, status, tagline, title, vote_average, vote_count 
+
+ 
+tmdb_5000_credits.csv incluye variables: movie_id, title, cast, crew
+
+ 
+
+**Movie Lens 32M**
+https://grouplens.org/datasets/movielens/32m/
+
+MovieLens 32M movie ratings. Stable benchmark dataset. 32 million ratings and two million tag applications applied to 87,585 movies by 200,948 users. Collected 10/2023 Released 05/2024
+•	README.txt
+•	ml-32m.zip (size: 239 MB, checksum)
+Permalink: https://grouplens.org/datasets/movielens/32m/
+
+El dataset se reparte en los siguientes csv: 
+movies.csv
+ratings.csv
+links.csv
+tags.csv
+
+links.csv incluye variables: movieId, imdbId, tmdbId
+movies.csv incluye variables: movieId, title, genres
+ratings.csv incluye variables: userId, movieId, rating, timestamp
+tags.csv incluye variables: userId, movieId, tag, timestamp
+
+9 keys 
