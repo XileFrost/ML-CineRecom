@@ -19,9 +19,8 @@ tmdb_5000_credits.csv
 
 tmdb_5000_movies.csv incluye variables: budget, genres, homepage, id, keywords, original_language, original_title, overview, popularity, production_companies, production_countries, release_date, revenue, runtime ,spoken_languages, status, tagline, title, vote_average, vote_count <br>
 tmdb_5000_credits.csv incluye variables: movie_id, title, cast, crew <br>
-
- 
-
+<br>
+<br>
 **Movie Lens 32M**
 https://grouplens.org/datasets/movielens/32m/
 
