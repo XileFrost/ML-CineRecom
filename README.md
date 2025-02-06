@@ -17,10 +17,8 @@ El dataset se reparte en los siguientes csv:
 tmdb_5000_movies.csv
 tmdb_5000_credits.csv
 
-tmdb_5000_movies.csv incluye variables: budget, genres, homepage, id, keywords, original_language, original_title, overview, popularity, production_companies, production_countries, release_date, revenue, runtime ,spoken_languages, status, tagline, title, vote_average, vote_count 
-
- 
-tmdb_5000_credits.csv incluye variables: movie_id, title, cast, crew
+tmdb_5000_movies.csv incluye variables: budget, genres, homepage, id, keywords, original_language, original_title, overview, popularity, production_companies, production_countries, release_date, revenue, runtime ,spoken_languages, status, tagline, title, vote_average, vote_count <br>
+tmdb_5000_credits.csv incluye variables: movie_id, title, cast, crew <br>
 
  
 
@@ -38,9 +36,9 @@ ratings.csv
 links.csv
 tags.csv
 
-links.csv incluye variables: movieId, imdbId, tmdbId
-movies.csv incluye variables: movieId, title, genres
-ratings.csv incluye variables: userId, movieId, rating, timestamp
-tags.csv incluye variables: userId, movieId, tag, timestamp
+links.csv incluye variables: movieId, imdbId, tmdbId <br>
+movies.csv incluye variables: movieId, title, genres <br>
+ratings.csv incluye variables: userId, movieId, rating, timestamp <br>
+tags.csv incluye variables: userId, movieId, tag, timestamp <br>
 
 9 keys 
