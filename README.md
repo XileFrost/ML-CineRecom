@@ -10,8 +10,8 @@ https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
 
 4807 registros X 24 campos
 
-This dataset was generated from The Movie Database API (https://www.kaggle.com/code/sohier/getting-imdb-kernels-working-with-tmdb-data). This product uses the TMDb API but is not endorsed or certified by TMDb.
-Their API also provides access to data on many additional movies, actors and actresses, crew members, and TV shows. You can try it for yourself here. (https://gist.github.com/SohierDane/4a84cb96d220fc4791f52562be37968b)
+*This dataset was generated from The Movie Database API (https://www.kaggle.com/code/sohier/getting-imdb-kernels-working-with-tmdb-data). This product uses the TMDb API but is not endorsed or certified by TMDb.
+Their API also provides access to data on many additional movies, actors and actresses, crew members, and TV shows. You can try it for yourself here. (https://gist.github.com/SohierDane/4a84cb96d220fc4791f52562be37968b)*
 
 El dataset se reparte en los siguientes csv: 
 tmdb_5000_movies.csv
@@ -24,7 +24,7 @@ tmdb_5000_credits.csv incluye variables: movie_id, title, cast, crew <br>
 **Movie Lens 32M**
 https://grouplens.org/datasets/movielens/32m/
 
-MovieLens 32M movie ratings. Stable benchmark dataset. 32 million ratings and two million tag applications applied to 87,585 movies by 200,948 users. Collected 10/2023 Released 05/2024
+*MovieLens 32M movie ratings. Stable benchmark dataset. 32 million ratings and two million tag applications applied to 87,585 movies by 200,948 users. Collected 10/2023 Released 05/2024*
 •	README.txt
 •	ml-32m.zip (size: 239 MB, checksum)
 Permalink: https://grouplens.org/datasets/movielens/32m/
