@@ -1,9 +1,9 @@
-# ML-CineRecom
+# PERESYS
 Proyecto ML para la creación de un sistema de recomendación de películas
 
- A partir de al menos dos dataset, y con la posibilidad de webscrapear, quiero crear un sistema de recomendación de películas para una persona usuaria cinéfila. 
+A partir de dos grandes dataset, procedentes de The Movie DataBase (TMDB) y MovieLens (ML), quiero crear un sistema de recomendación de películas para aficionados al Cine. Este sistema de recomendación se podría implementar en una plataforma de video on demand (VoD) como Amazon Prime Video, Filmin o Netflix, por nombrar a tres.  
 
-Los datasets de los que dispongo actualmente son: 
+Los datasets de los que dispongo son: 
 
 **TMDB 5000 Movie Dataset**
 https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
